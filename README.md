@@ -2,6 +2,7 @@
 
 ### Estrutura dos Arquivos e descrições
 
+```bash
 .root
 │
 ├── 📄geradorDeGrafos.py //Script que gera os grafos a partir dos datasets
@@ -35,3 +36,5 @@
     ├── 📄medium.scala
     ├── 📄lessmedium.scala
     └── 📄small.scala
+```
+
