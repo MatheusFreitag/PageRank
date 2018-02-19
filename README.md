@@ -38,3 +38,5 @@
     └── 📄small.scala
 ```
 
+### Para executar
+Posicione os arquivos de grafos e os scripts SCALA dentro do ambiente SPARK e execute com o spark-shell.
